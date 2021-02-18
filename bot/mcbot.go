@@ -16,7 +16,7 @@ import (
 )
 
 // ProtocolVersion , the protocol version number of minecraft net protocol
-const ProtocolVersion = 754
+const ProtocolVersion = "Snapshot 15"
 const DefaultPort = 25565
 
 // JoinServer connect a Minecraft server for playing the game.
