@@ -4,9 +4,9 @@ import (
 	"errors"
 	"strconv"
 
-	"github.com/Tnze/go-mc/data/packetid"
-	pk "github.com/Tnze/go-mc/net/packet"
-	"github.com/Tnze/go-mc/net/ptypes"
+	"github.com/ForgottenWorld/go-mc/data/packetid"
+	pk "github.com/ForgottenWorld/go-mc/net/packet"
+	"github.com/ForgottenWorld/go-mc/net/ptypes"
 )
 
 // SwingArm swing player's arm.

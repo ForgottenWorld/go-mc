@@ -3,10 +3,10 @@ package world
 import (
 	"fmt"
 
-	"github.com/Tnze/go-mc/bot/world/entity"
-	e "github.com/Tnze/go-mc/data/entity"
-	pk "github.com/Tnze/go-mc/net/packet"
-	"github.com/Tnze/go-mc/net/ptypes"
+	"github.com/ForgottenWorld/go-mc/bot/world/entity"
+	e "github.com/ForgottenWorld/go-mc/data/entity"
+	pk "github.com/ForgottenWorld/go-mc/net/packet"
+	"github.com/ForgottenWorld/go-mc/net/ptypes"
 	"github.com/google/uuid"
 )
 

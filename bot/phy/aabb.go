@@ -3,7 +3,7 @@ package phy
 import (
 	"math"
 
-	"github.com/Tnze/go-mc/bot/world"
+	"github.com/ForgottenWorld/go-mc/bot/world"
 )
 
 type MinMax struct {

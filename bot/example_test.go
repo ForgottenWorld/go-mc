@@ -3,8 +3,8 @@ package bot
 import (
 	"encoding/hex"
 	"fmt"
-	"github.com/Tnze/go-mc/offline"
-	"github.com/Tnze/go-mc/yggdrasil"
+	"github.com/ForgottenWorld/go-mc/offline"
+	"github.com/ForgottenWorld/go-mc/yggdrasil"
 	"log"
 )
 

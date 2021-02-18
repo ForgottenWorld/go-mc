@@ -2,9 +2,9 @@
 package main
 
 import (
-	"github.com/Tnze/go-mc/net"
-	pk "github.com/Tnze/go-mc/net/packet"
-	"github.com/Tnze/go-mc/offline"
+	"github.com/ForgottenWorld/go-mc/net"
+	pk "github.com/ForgottenWorld/go-mc/net/packet"
+	"github.com/ForgottenWorld/go-mc/offline"
 	"github.com/google/uuid"
 	"log"
 )

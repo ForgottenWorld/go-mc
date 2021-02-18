@@ -43,8 +43,8 @@ func main() {
 package shape
 
 import (
-  "github.com/Tnze/go-mc/bot/world"
-  "github.com/Tnze/go-mc/data/block"
+  "github.com/ForgottenWorld/go-mc/bot/world"
+  "github.com/ForgottenWorld/go-mc/data/block"
 )
 
 // ID describes a numeric shape ID.

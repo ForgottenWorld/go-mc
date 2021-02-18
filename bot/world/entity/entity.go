@@ -3,10 +3,10 @@ package entity
 import (
 	"bytes"
 
-	"github.com/Tnze/go-mc/data/entity"
-	item "github.com/Tnze/go-mc/data/item"
-	"github.com/Tnze/go-mc/nbt"
-	pk "github.com/Tnze/go-mc/net/packet"
+	"github.com/ForgottenWorld/go-mc/data/entity"
+	item "github.com/ForgottenWorld/go-mc/data/item"
+	"github.com/ForgottenWorld/go-mc/nbt"
+	pk "github.com/ForgottenWorld/go-mc/net/packet"
 	"github.com/google/uuid"
 )
 

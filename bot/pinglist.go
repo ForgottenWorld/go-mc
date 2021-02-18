@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/Tnze/go-mc/net"
-	pk "github.com/Tnze/go-mc/net/packet"
+	"github.com/ForgottenWorld/go-mc/net"
+	pk "github.com/ForgottenWorld/go-mc/net/packet"
 )
 
 // PingAndList check server status and list online player.

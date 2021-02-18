@@ -1,10 +1,10 @@
 package world
 
 import (
-	"github.com/Tnze/go-mc/bot/world/entity"
-	"github.com/Tnze/go-mc/data/block"
-	pk "github.com/Tnze/go-mc/net/packet"
-	"github.com/Tnze/go-mc/net/ptypes"
+	"github.com/ForgottenWorld/go-mc/bot/world/entity"
+	"github.com/ForgottenWorld/go-mc/data/block"
+	pk "github.com/ForgottenWorld/go-mc/net/packet"
+	"github.com/ForgottenWorld/go-mc/net/ptypes"
 )
 
 // Chunk store a 256*16*16 area of blocks, sharded on the Y axis into 16

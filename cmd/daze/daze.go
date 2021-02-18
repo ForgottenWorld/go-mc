@@ -7,10 +7,10 @@ import (
 
 	"github.com/google/uuid"
 
-	"github.com/Tnze/go-mc/bot"
-	"github.com/Tnze/go-mc/chat"
-	_ "github.com/Tnze/go-mc/data/lang/zh-cn"
-	pk "github.com/Tnze/go-mc/net/packet"
+	"github.com/ForgottenWorld/go-mc/bot"
+	"github.com/ForgottenWorld/go-mc/chat"
+	_ "github.com/ForgottenWorld/go-mc/data/lang/zh-cn"
+	pk "github.com/ForgottenWorld/go-mc/net/packet"
 )
 
 var address = flag.String("address", "127.0.0.1", "The server address")

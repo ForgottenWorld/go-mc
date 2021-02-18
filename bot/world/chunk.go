@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/Tnze/go-mc/data/block"
-	pk "github.com/Tnze/go-mc/net/packet"
+	"github.com/ForgottenWorld/go-mc/data/block"
+	pk "github.com/ForgottenWorld/go-mc/net/packet"
 )
 
 const maxPaletteBits = 8

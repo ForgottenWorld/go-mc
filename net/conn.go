@@ -8,7 +8,7 @@ import (
 	"net"
 	"time"
 
-	pk "github.com/Tnze/go-mc/net/packet"
+	pk "github.com/ForgottenWorld/go-mc/net/packet"
 )
 
 // A Listener is a minecraft Listener

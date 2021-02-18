@@ -1,7 +1,7 @@
 package ptypes
 
 import (
-	pk "github.com/Tnze/go-mc/net/packet"
+	pk "github.com/ForgottenWorld/go-mc/net/packet"
 )
 
 // JoinGame encodes global/world information from the server.

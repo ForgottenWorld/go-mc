@@ -1,13 +1,13 @@
 package bot
 
 import (
-	"github.com/Tnze/go-mc/bot/world/entity"
-	"github.com/Tnze/go-mc/bot/world/entity/player"
-	"github.com/Tnze/go-mc/chat"
+	"github.com/ForgottenWorld/go-mc/bot/world/entity"
+	"github.com/ForgottenWorld/go-mc/bot/world/entity/player"
+	"github.com/ForgottenWorld/go-mc/chat"
 	"github.com/google/uuid"
 
-	pk "github.com/Tnze/go-mc/net/packet"
-	"github.com/Tnze/go-mc/net/ptypes"
+	pk "github.com/ForgottenWorld/go-mc/net/packet"
+	"github.com/ForgottenWorld/go-mc/net/ptypes"
 )
 
 type seenPacketFlags uint8

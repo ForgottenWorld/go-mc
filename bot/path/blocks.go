@@ -1,8 +1,8 @@
 package path
 
 import (
-	"github.com/Tnze/go-mc/bot/world"
-	"github.com/Tnze/go-mc/data/block"
+	"github.com/ForgottenWorld/go-mc/bot/world"
+	"github.com/ForgottenWorld/go-mc/data/block"
 )
 
 var (

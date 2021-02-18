@@ -17,7 +17,7 @@ To read and write would look like:
 package main
 
 import "bytes"
-import "github.com/Tnze/go-mc/nbt"
+import "github.com/ForgottenWorld/go-mc/nbt"
 
 type Compound struct {
     Name string `nbt:"name"` // Note that if name is private (name), the field will not be used

@@ -3,9 +3,9 @@ package ptypes
 import (
 	"io/ioutil"
 
-	"github.com/Tnze/go-mc/chat"
-	"github.com/Tnze/go-mc/data/packetid"
-	pk "github.com/Tnze/go-mc/net/packet"
+	"github.com/ForgottenWorld/go-mc/chat"
+	"github.com/ForgottenWorld/go-mc/data/packetid"
+	pk "github.com/ForgottenWorld/go-mc/net/packet"
 )
 
 // SoundEffect is a client-bound packet used to play a specific sound ID

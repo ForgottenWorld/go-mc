@@ -11,12 +11,12 @@ package chat
 import (
 	"encoding/json"
 	"fmt"
-	en_us "github.com/Tnze/go-mc/data/lang/en-us"
+	en_us "github.com/ForgottenWorld/go-mc/data/lang/en-us"
 	"io"
 	"regexp"
 	"strings"
 
-	pk "github.com/Tnze/go-mc/net/packet"
+	pk "github.com/ForgottenWorld/go-mc/net/packet"
 )
 
 //Message is a message sent by other

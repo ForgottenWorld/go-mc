@@ -5,10 +5,10 @@ package phy
 import (
 	"math"
 
-	"github.com/Tnze/go-mc/bot/path"
-	"github.com/Tnze/go-mc/bot/world"
-	"github.com/Tnze/go-mc/bot/world/entity/player"
-	"github.com/Tnze/go-mc/data/block/shape"
+	"github.com/ForgottenWorld/go-mc/bot/path"
+	"github.com/ForgottenWorld/go-mc/bot/world"
+	"github.com/ForgottenWorld/go-mc/bot/world/entity/player"
+	"github.com/ForgottenWorld/go-mc/data/block/shape"
 )
 
 const (

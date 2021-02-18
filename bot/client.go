@@ -4,15 +4,15 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Tnze/go-mc/bot/path"
-	"github.com/Tnze/go-mc/bot/phy"
-	"github.com/Tnze/go-mc/bot/world"
-	"github.com/Tnze/go-mc/bot/world/entity"
-	"github.com/Tnze/go-mc/bot/world/entity/player"
-	"github.com/Tnze/go-mc/data/packetid"
-	"github.com/Tnze/go-mc/net"
-	"github.com/Tnze/go-mc/net/packet"
-	pk "github.com/Tnze/go-mc/net/packet"
+	"github.com/ForgottenWorld/go-mc/bot/path"
+	"github.com/ForgottenWorld/go-mc/bot/phy"
+	"github.com/ForgottenWorld/go-mc/bot/world"
+	"github.com/ForgottenWorld/go-mc/bot/world/entity"
+	"github.com/ForgottenWorld/go-mc/bot/world/entity/player"
+	"github.com/ForgottenWorld/go-mc/data/packetid"
+	"github.com/ForgottenWorld/go-mc/net"
+	"github.com/ForgottenWorld/go-mc/net/packet"
+	pk "github.com/ForgottenWorld/go-mc/net/packet"
 )
 
 // Client is used to access Minecraft server

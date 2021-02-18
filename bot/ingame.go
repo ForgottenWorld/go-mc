@@ -9,14 +9,14 @@ import (
 
 	"github.com/google/uuid"
 
-	"github.com/Tnze/go-mc/bot/world"
-	"github.com/Tnze/go-mc/bot/world/entity"
-	"github.com/Tnze/go-mc/bot/world/entity/player"
-	"github.com/Tnze/go-mc/chat"
-	"github.com/Tnze/go-mc/data/packetid"
-	"github.com/Tnze/go-mc/data/soundid"
-	pk "github.com/Tnze/go-mc/net/packet"
-	"github.com/Tnze/go-mc/net/ptypes"
+	"github.com/ForgottenWorld/go-mc/bot/world"
+	"github.com/ForgottenWorld/go-mc/bot/world/entity"
+	"github.com/ForgottenWorld/go-mc/bot/world/entity/player"
+	"github.com/ForgottenWorld/go-mc/chat"
+	"github.com/ForgottenWorld/go-mc/data/packetid"
+	"github.com/ForgottenWorld/go-mc/data/soundid"
+	pk "github.com/ForgottenWorld/go-mc/net/packet"
+	"github.com/ForgottenWorld/go-mc/net/ptypes"
 )
 
 func (c *Client) updateServerPos(pos player.Pos) (err error) {

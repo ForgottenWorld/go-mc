@@ -10,9 +10,9 @@ import (
 	"net"
 	"strconv"
 
-	"github.com/Tnze/go-mc/data/packetid"
-	mcnet "github.com/Tnze/go-mc/net"
-	pk "github.com/Tnze/go-mc/net/packet"
+	"github.com/ForgottenWorld/go-mc/data/packetid"
+	mcnet "github.com/ForgottenWorld/go-mc/net"
+	pk "github.com/ForgottenWorld/go-mc/net/packet"
 )
 
 // ProtocolVersion , the protocol version number of minecraft net protocol

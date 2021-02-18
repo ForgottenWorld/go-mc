@@ -5,9 +5,9 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/Tnze/go-mc/bot/world/entity"
-	"github.com/Tnze/go-mc/nbt"
-	pk "github.com/Tnze/go-mc/net/packet"
+	"github.com/ForgottenWorld/go-mc/bot/world/entity"
+	"github.com/ForgottenWorld/go-mc/nbt"
+	pk "github.com/ForgottenWorld/go-mc/net/packet"
 )
 
 // ChunkData is a client-bound packet which describes a chunk.
